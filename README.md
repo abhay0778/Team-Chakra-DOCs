@@ -1,4 +1,4 @@
-# Team CHAKRA Docs
+# Team CHAKRA Documentations 
 
 ## What is this?
 
